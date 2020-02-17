@@ -1,0 +1,26 @@
+selecionar uma pasta onde o projeto será trabalhado 
+> C://Documents/..
+
+Iniciar o gitbash na pasta 
+>Botão direito do mouse iniciar Git Bash aqui 
+
+Instalar o Gerador de aplicativos do Express
+npm install express-generator -g
+
+Criar um novo projeto 
+express nomeDoProjeto --ejs
+
+Em seguida entrar na pasta do projeto que acabamos de criar
+cd nomeDoProjeto
+
+Instalar as dependências do projeto 
+npm install 
+
+Criar a pasta controllers onde ficará os controladores e regras de negócio do app
+mkdir controllers
+
+Agora é só começar a desenvolver...
+Para executar e ver o app rodando basta executar o comando abaixo no Gitbash
+npm start
+
+
